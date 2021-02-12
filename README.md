@@ -1,0 +1,1 @@
+Welcome to my first project. It may be simple, but we all start somewhere. The task is to create a clone of the google homepage.
